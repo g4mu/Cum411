@@ -1,0 +1,18 @@
+# Display a box
+print("Box")
+print("\n")
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
+print("\n")
+# Display a robot
+print("Robot")
+print("\n")
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
+print("  #    #  ")
+print("#        #")
+print("  ##  ## ")
